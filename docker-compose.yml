@@ -1,0 +1,9 @@
+version: '3'
+services:
+  web:
+    build: .
+    command: sh /app/bin/dev-bootstrap 
+    volumes:
+      - .:/app
+    ports:
+      - "127.0.0.1:3000:3000"
