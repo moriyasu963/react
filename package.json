@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "google-cloud": "^0.57.0",
     "gulp": "*",
     "immutable": "*",
     "react": "^16.2.0",
