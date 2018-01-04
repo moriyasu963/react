@@ -5,8 +5,7 @@
 
 ### 前準備
 
-Docker, Node.js(6以上), Yarnが必要です。
-Homebrewやnodebrewでインストールしてください。
+Dockerが必要です。（※Dockerを使わない場合はNode.js(6以上), Yarnが必要です）
 
 その後、
 
